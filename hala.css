@@ -1,0 +1,58 @@
+body{
+    background-image: linear-gradient(to bottom right, #190054, #790973, #ff0070);
+    background-repeat: no-repeat;
+}
+.justsome{
+    font-family:'Raleway', italic, sans-serif ;
+    color: white;
+    font-size: x-large;
+
+}
+
+h1{
+    font-family: 'Nanum Gothic', sans-serif;
+    color:hotpink;
+    text-align: center;
+    text-shadow: black 2px 2px 4px;
+    letter-spacing: 10px;
+
+}
+
+.image{
+    text-align: center;
+}
+
+.deets{
+    font-family: 'Indie Flower', cursive;
+    font-size: x-large;
+    color: lightseagreen;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: 5px 5px 8px black;
+}
+.point:hover{
+    cursor: pointer;
+}
+
+.b1{
+    font-family: 'Cormorant Garamond', serif;
+    color: white;
+    border: 1px solid turquoise;
+    font-size: 30px;
+    letter-spacing: 10px;
+    background-color: transparent;
+    width: 170px;
+    height: 100px;
+    transition-duration: 2s;
+}
+
+.b1:hover{
+    cursor: pointer;
+    color: navy;
+    background-color: turquoise;
+    border: 1px solid navy;
+    border-radius: 10px;
+}
+
+#butt{
+    text-align: center;
+}
