@@ -49,8 +49,9 @@ h1{
     cursor: pointer;
     color: navy;
     background-color: turquoise;
-    border: 1px solid navy;
+    border: 1px solid turquoise;
     border-radius: 10px;
+    box-shadow: 0 0 90px #ffffff;
 }
 
 #butt{
